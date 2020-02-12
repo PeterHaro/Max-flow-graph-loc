@@ -27,14 +27,14 @@ def create_graph_representation(graph_data):
 
     # Add suppliers to graph
     for supplier in graph_data['suppliers']:
-        graph.add_node(int(supplier['id']) * -1)
+        graph.add_node(supplier['id'])
 
     for buyer in graph_data['buyers']:
         current_buyer_id = buyer['id']
         graph.add_node(current_buyer_id)
         try:
             for transaction in buyer['historicalData']:
-                current_supplier_id = int(transaction['supplierId']) * -1
+                current_supplier_id = transaction['supplierId']
                 if current_supplier_id not in graph[current_buyer_id]:
                     graph.add_edge(current_buyer_id, current_supplier_id, degree=0)
                     graph[current_buyer_id][current_supplier_id]['weight'] = 0
@@ -110,7 +110,7 @@ class Matchmaking(object):
         adj_offers = dict()
         _temp_rel = defaultdict(dict)  # save price + dist, to extract min/max, normalisation
         for offer in offers:
-            o_id = offer['id']
+            o_id = offer['offerId']
             adj_offers[o_id] = offer['semanticSimilarity']
             if offer['supplierId'] in nx.algorithms.descendants(self.graph, buyer):
                 _temp_rel['flow'][o_id] = mf(offer['supplierId'])
