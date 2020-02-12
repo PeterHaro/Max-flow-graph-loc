@@ -1,0 +1,527 @@
+[
+  {
+    "id": 0,
+    "profileRanking": 51,
+    "supplierInfo": "Dumping information for supplier: 0\r\n\t Profile ranking: 51\r\n\t SustainabilityRanking: 11\r\n\t Distance from buyer in km: 62",
+    "distanceFromBuyerInKm": 62,
+    "sustainabilityRanking": 11
+  },
+  {
+    "id": 1,
+    "profileRanking": 14,
+    "supplierInfo": "Dumping information for supplier: 1\r\n\t Profile ranking: 14\r\n\t SustainabilityRanking: 25\r\n\t Distance from buyer in km: 251",
+    "distanceFromBuyerInKm": 251,
+    "sustainabilityRanking": 25
+  },
+  {
+    "id": 2,
+    "profileRanking": 12,
+    "supplierInfo": "Dumping information for supplier: 2\r\n\t Profile ranking: 12\r\n\t SustainabilityRanking: 12\r\n\t Distance from buyer in km: 361",
+    "distanceFromBuyerInKm": 361,
+    "sustainabilityRanking": 12
+  },
+  {
+    "id": 3,
+    "profileRanking": 53,
+    "supplierInfo": "Dumping information for supplier: 3\r\n\t Profile ranking: 53\r\n\t SustainabilityRanking: 64\r\n\t Distance from buyer in km: 371",
+    "distanceFromBuyerInKm": 371,
+    "sustainabilityRanking": 64
+  },
+  {
+    "id": 4,
+    "profileRanking": 60,
+    "supplierInfo": "Dumping information for supplier: 4\r\n\t Profile ranking: 60\r\n\t SustainabilityRanking: 6\r\n\t Distance from buyer in km: 456",
+    "distanceFromBuyerInKm": 456,
+    "sustainabilityRanking": 6
+  },
+  {
+    "id": 5,
+    "profileRanking": 80,
+    "supplierInfo": "Dumping information for supplier: 5\r\n\t Profile ranking: 80\r\n\t SustainabilityRanking: 25\r\n\t Distance from buyer in km: 288",
+    "distanceFromBuyerInKm": 288,
+    "sustainabilityRanking": 25
+  },
+  {
+    "id": 6,
+    "profileRanking": 68,
+    "supplierInfo": "Dumping information for supplier: 6\r\n\t Profile ranking: 68\r\n\t SustainabilityRanking: 90\r\n\t Distance from buyer in km: 114",
+    "distanceFromBuyerInKm": 114,
+    "sustainabilityRanking": 90
+  },
+  {
+    "id": 7,
+    "profileRanking": 78,
+    "supplierInfo": "Dumping information for supplier: 7\r\n\t Profile ranking: 78\r\n\t SustainabilityRanking: 18\r\n\t Distance from buyer in km: 113",
+    "distanceFromBuyerInKm": 113,
+    "sustainabilityRanking": 18
+  },
+  {
+    "id": 8,
+    "profileRanking": 89,
+    "supplierInfo": "Dumping information for supplier: 8\r\n\t Profile ranking: 89\r\n\t SustainabilityRanking: 98\r\n\t Distance from buyer in km: 152",
+    "distanceFromBuyerInKm": 152,
+    "sustainabilityRanking": 98
+  },
+  {
+    "id": 9,
+    "profileRanking": 97,
+    "supplierInfo": "Dumping information for supplier: 9\r\n\t Profile ranking: 97\r\n\t SustainabilityRanking: 88\r\n\t Distance from buyer in km: 66",
+    "distanceFromBuyerInKm": 66,
+    "sustainabilityRanking": 88
+  },
+  {
+    "id": 10,
+    "profileRanking": 87,
+    "supplierInfo": "Dumping information for supplier: 10\r\n\t Profile ranking: 87\r\n\t SustainabilityRanking: 17\r\n\t Distance from buyer in km: 98",
+    "distanceFromBuyerInKm": 98,
+    "sustainabilityRanking": 17
+  },
+  {
+    "id": 11,
+    "profileRanking": 71,
+    "supplierInfo": "Dumping information for supplier: 11\r\n\t Profile ranking: 71\r\n\t SustainabilityRanking: 97\r\n\t Distance from buyer in km: 408",
+    "distanceFromBuyerInKm": 408,
+    "sustainabilityRanking": 97
+  },
+  {
+    "id": 12,
+    "profileRanking": 66,
+    "supplierInfo": "Dumping information for supplier: 12\r\n\t Profile ranking: 66\r\n\t SustainabilityRanking: 26\r\n\t Distance from buyer in km: 107",
+    "distanceFromBuyerInKm": 107,
+    "sustainabilityRanking": 26
+  },
+  {
+    "id": 13,
+    "profileRanking": 25,
+    "supplierInfo": "Dumping information for supplier: 13\r\n\t Profile ranking: 25\r\n\t SustainabilityRanking: 69\r\n\t Distance from buyer in km: 123",
+    "distanceFromBuyerInKm": 123,
+    "sustainabilityRanking": 69
+  },
+  {
+    "id": 14,
+    "profileRanking": 54,
+    "supplierInfo": "Dumping information for supplier: 14\r\n\t Profile ranking: 54\r\n\t SustainabilityRanking: 15\r\n\t Distance from buyer in km: 337",
+    "distanceFromBuyerInKm": 337,
+    "sustainabilityRanking": 15
+  },
+  {
+    "id": 15,
+    "profileRanking": 29,
+    "supplierInfo": "Dumping information for supplier: 15\r\n\t Profile ranking: 29\r\n\t SustainabilityRanking: 86\r\n\t Distance from buyer in km: 141",
+    "distanceFromBuyerInKm": 141,
+    "sustainabilityRanking": 86
+  },
+  {
+    "id": 16,
+    "profileRanking": 11,
+    "supplierInfo": "Dumping information for supplier: 16\r\n\t Profile ranking: 11\r\n\t SustainabilityRanking: 92\r\n\t Distance from buyer in km: 168",
+    "distanceFromBuyerInKm": 168,
+    "sustainabilityRanking": 92
+  },
+  {
+    "id": 17,
+    "profileRanking": 70,
+    "supplierInfo": "Dumping information for supplier: 17\r\n\t Profile ranking: 70\r\n\t SustainabilityRanking: 49\r\n\t Distance from buyer in km: 407",
+    "distanceFromBuyerInKm": 407,
+    "sustainabilityRanking": 49
+  },
+  {
+    "id": 18,
+    "profileRanking": 48,
+    "supplierInfo": "Dumping information for supplier: 18\r\n\t Profile ranking: 48\r\n\t SustainabilityRanking: 81\r\n\t Distance from buyer in km: 236",
+    "distanceFromBuyerInKm": 236,
+    "sustainabilityRanking": 81
+  },
+  {
+    "id": 19,
+    "profileRanking": 96,
+    "supplierInfo": "Dumping information for supplier: 19\r\n\t Profile ranking: 96\r\n\t SustainabilityRanking: 62\r\n\t Distance from buyer in km: 419",
+    "distanceFromBuyerInKm": 419,
+    "sustainabilityRanking": 62
+  },
+  {
+    "id": 20,
+    "profileRanking": 9,
+    "supplierInfo": "Dumping information for supplier: 20\r\n\t Profile ranking: 9\r\n\t SustainabilityRanking: 77\r\n\t Distance from buyer in km: 338",
+    "distanceFromBuyerInKm": 338,
+    "sustainabilityRanking": 77
+  },
+  {
+    "id": 21,
+    "profileRanking": 34,
+    "supplierInfo": "Dumping information for supplier: 21\r\n\t Profile ranking: 34\r\n\t SustainabilityRanking: 43\r\n\t Distance from buyer in km: 179",
+    "distanceFromBuyerInKm": 179,
+    "sustainabilityRanking": 43
+  },
+  {
+    "id": 22,
+    "profileRanking": 66,
+    "supplierInfo": "Dumping information for supplier: 22\r\n\t Profile ranking: 66\r\n\t SustainabilityRanking: 8\r\n\t Distance from buyer in km: 175",
+    "distanceFromBuyerInKm": 175,
+    "sustainabilityRanking": 8
+  },
+  {
+    "id": 23,
+    "profileRanking": 94,
+    "supplierInfo": "Dumping information for supplier: 23\r\n\t Profile ranking: 94\r\n\t SustainabilityRanking: 18\r\n\t Distance from buyer in km: 430",
+    "distanceFromBuyerInKm": 430,
+    "sustainabilityRanking": 18
+  },
+  {
+    "id": 24,
+    "profileRanking": 80,
+    "supplierInfo": "Dumping information for supplier: 24\r\n\t Profile ranking: 80\r\n\t SustainabilityRanking: 0\r\n\t Distance from buyer in km: 147",
+    "distanceFromBuyerInKm": 147,
+    "sustainabilityRanking": 0
+  },
+  {
+    "id": 25,
+    "profileRanking": 79,
+    "supplierInfo": "Dumping information for supplier: 25\r\n\t Profile ranking: 79\r\n\t SustainabilityRanking: 100\r\n\t Distance from buyer in km: 66",
+    "distanceFromBuyerInKm": 66,
+    "sustainabilityRanking": 100
+  },
+  {
+    "id": 26,
+    "profileRanking": 15,
+    "supplierInfo": "Dumping information for supplier: 26\r\n\t Profile ranking: 15\r\n\t SustainabilityRanking: 57\r\n\t Distance from buyer in km: 172",
+    "distanceFromBuyerInKm": 172,
+    "sustainabilityRanking": 57
+  },
+  {
+    "id": 27,
+    "profileRanking": 83,
+    "supplierInfo": "Dumping information for supplier: 27\r\n\t Profile ranking: 83\r\n\t SustainabilityRanking: 85\r\n\t Distance from buyer in km: 488",
+    "distanceFromBuyerInKm": 488,
+    "sustainabilityRanking": 85
+  },
+  {
+    "id": 28,
+    "profileRanking": 69,
+    "supplierInfo": "Dumping information for supplier: 28\r\n\t Profile ranking: 69\r\n\t SustainabilityRanking: 20\r\n\t Distance from buyer in km: 113",
+    "distanceFromBuyerInKm": 113,
+    "sustainabilityRanking": 20
+  },
+  {
+    "id": 29,
+    "profileRanking": 46,
+    "supplierInfo": "Dumping information for supplier: 29\r\n\t Profile ranking: 46\r\n\t SustainabilityRanking: 66\r\n\t Distance from buyer in km: 489",
+    "distanceFromBuyerInKm": 489,
+    "sustainabilityRanking": 66
+  },
+  {
+    "id": 30,
+    "profileRanking": 38,
+    "supplierInfo": "Dumping information for supplier: 30\r\n\t Profile ranking: 38\r\n\t SustainabilityRanking: 67\r\n\t Distance from buyer in km: 78",
+    "distanceFromBuyerInKm": 78,
+    "sustainabilityRanking": 67
+  },
+  {
+    "id": 31,
+    "profileRanking": 81,
+    "supplierInfo": "Dumping information for supplier: 31\r\n\t Profile ranking: 81\r\n\t SustainabilityRanking: 83\r\n\t Distance from buyer in km: 295",
+    "distanceFromBuyerInKm": 295,
+    "sustainabilityRanking": 83
+  },
+  {
+    "id": 32,
+    "profileRanking": 86,
+    "supplierInfo": "Dumping information for supplier: 32\r\n\t Profile ranking: 86\r\n\t SustainabilityRanking: 5\r\n\t Distance from buyer in km: 418",
+    "distanceFromBuyerInKm": 418,
+    "sustainabilityRanking": 5
+  },
+  {
+    "id": 33,
+    "profileRanking": 96,
+    "supplierInfo": "Dumping information for supplier: 33\r\n\t Profile ranking: 96\r\n\t SustainabilityRanking: 5\r\n\t Distance from buyer in km: 491",
+    "distanceFromBuyerInKm": 491,
+    "sustainabilityRanking": 5
+  },
+  {
+    "id": 34,
+    "profileRanking": 36,
+    "supplierInfo": "Dumping information for supplier: 34\r\n\t Profile ranking: 36\r\n\t SustainabilityRanking: 97\r\n\t Distance from buyer in km: 15",
+    "distanceFromBuyerInKm": 15,
+    "sustainabilityRanking": 97
+  },
+  {
+    "id": 35,
+    "profileRanking": 8,
+    "supplierInfo": "Dumping information for supplier: 35\r\n\t Profile ranking: 8\r\n\t SustainabilityRanking: 9\r\n\t Distance from buyer in km: 268",
+    "distanceFromBuyerInKm": 268,
+    "sustainabilityRanking": 9
+  },
+  {
+    "id": 36,
+    "profileRanking": 97,
+    "supplierInfo": "Dumping information for supplier: 36\r\n\t Profile ranking: 97\r\n\t SustainabilityRanking: 97\r\n\t Distance from buyer in km: 113",
+    "distanceFromBuyerInKm": 113,
+    "sustainabilityRanking": 97
+  },
+  {
+    "id": 37,
+    "profileRanking": 15,
+    "supplierInfo": "Dumping information for supplier: 37\r\n\t Profile ranking: 15\r\n\t SustainabilityRanking: 90\r\n\t Distance from buyer in km: 161",
+    "distanceFromBuyerInKm": 161,
+    "sustainabilityRanking": 90
+  },
+  {
+    "id": 38,
+    "profileRanking": 33,
+    "supplierInfo": "Dumping information for supplier: 38\r\n\t Profile ranking: 33\r\n\t SustainabilityRanking: 74\r\n\t Distance from buyer in km: 456",
+    "distanceFromBuyerInKm": 456,
+    "sustainabilityRanking": 74
+  },
+  {
+    "id": 39,
+    "profileRanking": 27,
+    "supplierInfo": "Dumping information for supplier: 39\r\n\t Profile ranking: 27\r\n\t SustainabilityRanking: 93\r\n\t Distance from buyer in km: 230",
+    "distanceFromBuyerInKm": 230,
+    "sustainabilityRanking": 93
+  },
+  {
+    "id": 40,
+    "profileRanking": 41,
+    "supplierInfo": "Dumping information for supplier: 40\r\n\t Profile ranking: 41\r\n\t SustainabilityRanking: 68\r\n\t Distance from buyer in km: 231",
+    "distanceFromBuyerInKm": 231,
+    "sustainabilityRanking": 68
+  },
+  {
+    "id": 41,
+    "profileRanking": 50,
+    "supplierInfo": "Dumping information for supplier: 41\r\n\t Profile ranking: 50\r\n\t SustainabilityRanking: 84\r\n\t Distance from buyer in km: 332",
+    "distanceFromBuyerInKm": 332,
+    "sustainabilityRanking": 84
+  },
+  {
+    "id": 42,
+    "profileRanking": 73,
+    "supplierInfo": "Dumping information for supplier: 42\r\n\t Profile ranking: 73\r\n\t SustainabilityRanking: 96\r\n\t Distance from buyer in km: 460",
+    "distanceFromBuyerInKm": 460,
+    "sustainabilityRanking": 96
+  },
+  {
+    "id": 43,
+    "profileRanking": 10,
+    "supplierInfo": "Dumping information for supplier: 43\r\n\t Profile ranking: 10\r\n\t SustainabilityRanking: 27\r\n\t Distance from buyer in km: 383",
+    "distanceFromBuyerInKm": 383,
+    "sustainabilityRanking": 27
+  },
+  {
+    "id": 44,
+    "profileRanking": 84,
+    "supplierInfo": "Dumping information for supplier: 44\r\n\t Profile ranking: 84\r\n\t SustainabilityRanking: 66\r\n\t Distance from buyer in km: 218",
+    "distanceFromBuyerInKm": 218,
+    "sustainabilityRanking": 66
+  },
+  {
+    "id": 45,
+    "profileRanking": 95,
+    "supplierInfo": "Dumping information for supplier: 45\r\n\t Profile ranking: 95\r\n\t SustainabilityRanking: 61\r\n\t Distance from buyer in km: 320",
+    "distanceFromBuyerInKm": 320,
+    "sustainabilityRanking": 61
+  },
+  {
+    "id": 46,
+    "profileRanking": 37,
+    "supplierInfo": "Dumping information for supplier: 46\r\n\t Profile ranking: 37\r\n\t SustainabilityRanking: 12\r\n\t Distance from buyer in km: 159",
+    "distanceFromBuyerInKm": 159,
+    "sustainabilityRanking": 12
+  },
+  {
+    "id": 47,
+    "profileRanking": 93,
+    "supplierInfo": "Dumping information for supplier: 47\r\n\t Profile ranking: 93\r\n\t SustainabilityRanking: 17\r\n\t Distance from buyer in km: 45",
+    "distanceFromBuyerInKm": 45,
+    "sustainabilityRanking": 17
+  },
+  {
+    "id": 48,
+    "profileRanking": 90,
+    "supplierInfo": "Dumping information for supplier: 48\r\n\t Profile ranking: 90\r\n\t SustainabilityRanking: 26\r\n\t Distance from buyer in km: 407",
+    "distanceFromBuyerInKm": 407,
+    "sustainabilityRanking": 26
+  },
+  {
+    "id": 49,
+    "profileRanking": 78,
+    "supplierInfo": "Dumping information for supplier: 49\r\n\t Profile ranking: 78\r\n\t SustainabilityRanking: 55\r\n\t Distance from buyer in km: 482",
+    "distanceFromBuyerInKm": 482,
+    "sustainabilityRanking": 55
+  },
+  {
+    "id": 50,
+    "profileRanking": 63,
+    "supplierInfo": "Dumping information for supplier: 50\r\n\t Profile ranking: 63\r\n\t SustainabilityRanking: 78\r\n\t Distance from buyer in km: 307",
+    "distanceFromBuyerInKm": 307,
+    "sustainabilityRanking": 78
+  },
+  {
+    "id": 51,
+    "profileRanking": 85,
+    "supplierInfo": "Dumping information for supplier: 51\r\n\t Profile ranking: 85\r\n\t SustainabilityRanking: 51\r\n\t Distance from buyer in km: 216",
+    "distanceFromBuyerInKm": 216,
+    "sustainabilityRanking": 51
+  },
+  {
+    "id": 52,
+    "profileRanking": 27,
+    "supplierInfo": "Dumping information for supplier: 52\r\n\t Profile ranking: 27\r\n\t SustainabilityRanking: 74\r\n\t Distance from buyer in km: 315",
+    "distanceFromBuyerInKm": 315,
+    "sustainabilityRanking": 74
+  },
+  {
+    "id": 53,
+    "profileRanking": 10,
+    "supplierInfo": "Dumping information for supplier: 53\r\n\t Profile ranking: 10\r\n\t SustainabilityRanking: 26\r\n\t Distance from buyer in km: 179",
+    "distanceFromBuyerInKm": 179,
+    "sustainabilityRanking": 26
+  },
+  {
+    "id": 54,
+    "profileRanking": 21,
+    "supplierInfo": "Dumping information for supplier: 54\r\n\t Profile ranking: 21\r\n\t SustainabilityRanking: 59\r\n\t Distance from buyer in km: 105",
+    "distanceFromBuyerInKm": 105,
+    "sustainabilityRanking": 59
+  },
+  {
+    "id": 55,
+    "profileRanking": 27,
+    "supplierInfo": "Dumping information for supplier: 55\r\n\t Profile ranking: 27\r\n\t SustainabilityRanking: 91\r\n\t Distance from buyer in km: 132",
+    "distanceFromBuyerInKm": 132,
+    "sustainabilityRanking": 91
+  },
+  {
+    "id": 56,
+    "profileRanking": 57,
+    "supplierInfo": "Dumping information for supplier: 56\r\n\t Profile ranking: 57\r\n\t SustainabilityRanking: 80\r\n\t Distance from buyer in km: 452",
+    "distanceFromBuyerInKm": 452,
+    "sustainabilityRanking": 80
+  },
+  {
+    "id": 57,
+    "profileRanking": 63,
+    "supplierInfo": "Dumping information for supplier: 57\r\n\t Profile ranking: 63\r\n\t SustainabilityRanking: 24\r\n\t Distance from buyer in km: 470",
+    "distanceFromBuyerInKm": 470,
+    "sustainabilityRanking": 24
+  },
+  {
+    "id": 58,
+    "profileRanking": 51,
+    "supplierInfo": "Dumping information for supplier: 58\r\n\t Profile ranking: 51\r\n\t SustainabilityRanking: 49\r\n\t Distance from buyer in km: 101",
+    "distanceFromBuyerInKm": 101,
+    "sustainabilityRanking": 49
+  },
+  {
+    "id": 59,
+    "profileRanking": 42,
+    "supplierInfo": "Dumping information for supplier: 59\r\n\t Profile ranking: 42\r\n\t SustainabilityRanking: 2\r\n\t Distance from buyer in km: 214",
+    "distanceFromBuyerInKm": 214,
+    "sustainabilityRanking": 2
+  },
+  {
+    "id": 60,
+    "profileRanking": 19,
+    "supplierInfo": "Dumping information for supplier: 60\r\n\t Profile ranking: 19\r\n\t SustainabilityRanking: 87\r\n\t Distance from buyer in km: 186",
+    "distanceFromBuyerInKm": 186,
+    "sustainabilityRanking": 87
+  },
+  {
+    "id": 61,
+    "profileRanking": 46,
+    "supplierInfo": "Dumping information for supplier: 61\r\n\t Profile ranking: 46\r\n\t SustainabilityRanking: 76\r\n\t Distance from buyer in km: 17",
+    "distanceFromBuyerInKm": 17,
+    "sustainabilityRanking": 76
+  },
+  {
+    "id": 62,
+    "profileRanking": 83,
+    "supplierInfo": "Dumping information for supplier: 62\r\n\t Profile ranking: 83\r\n\t SustainabilityRanking: 36\r\n\t Distance from buyer in km: 103",
+    "distanceFromBuyerInKm": 103,
+    "sustainabilityRanking": 36
+  },
+  {
+    "id": 63,
+    "profileRanking": 87,
+    "supplierInfo": "Dumping information for supplier: 63\r\n\t Profile ranking: 87\r\n\t SustainabilityRanking: 84\r\n\t Distance from buyer in km: 388",
+    "distanceFromBuyerInKm": 388,
+    "sustainabilityRanking": 84
+  },
+  {
+    "id": 64,
+    "profileRanking": 55,
+    "supplierInfo": "Dumping information for supplier: 64\r\n\t Profile ranking: 55\r\n\t SustainabilityRanking: 51\r\n\t Distance from buyer in km: 241",
+    "distanceFromBuyerInKm": 241,
+    "sustainabilityRanking": 51
+  },
+  {
+    "id": 65,
+    "profileRanking": 54,
+    "supplierInfo": "Dumping information for supplier: 65\r\n\t Profile ranking: 54\r\n\t SustainabilityRanking: 57\r\n\t Distance from buyer in km: 371",
+    "distanceFromBuyerInKm": 371,
+    "sustainabilityRanking": 57
+  },
+  {
+    "id": 66,
+    "profileRanking": 57,
+    "supplierInfo": "Dumping information for supplier: 66\r\n\t Profile ranking: 57\r\n\t SustainabilityRanking: 27\r\n\t Distance from buyer in km: 323",
+    "distanceFromBuyerInKm": 323,
+    "sustainabilityRanking": 27
+  },
+  {
+    "id": 67,
+    "profileRanking": 71,
+    "supplierInfo": "Dumping information for supplier: 67\r\n\t Profile ranking: 71\r\n\t SustainabilityRanking: 60\r\n\t Distance from buyer in km: 378",
+    "distanceFromBuyerInKm": 378,
+    "sustainabilityRanking": 60
+  },
+  {
+    "id": 68,
+    "profileRanking": 17,
+    "supplierInfo": "Dumping information for supplier: 68\r\n\t Profile ranking: 17\r\n\t SustainabilityRanking: 8\r\n\t Distance from buyer in km: 354",
+    "distanceFromBuyerInKm": 354,
+    "sustainabilityRanking": 8
+  },
+  {
+    "id": 69,
+    "profileRanking": 13,
+    "supplierInfo": "Dumping information for supplier: 69\r\n\t Profile ranking: 13\r\n\t SustainabilityRanking: 20\r\n\t Distance from buyer in km: 266",
+    "distanceFromBuyerInKm": 266,
+    "sustainabilityRanking": 20
+  },
+  {
+    "id": 70,
+    "profileRanking": 55,
+    "supplierInfo": "Dumping information for supplier: 70\r\n\t Profile ranking: 55\r\n\t SustainabilityRanking: 76\r\n\t Distance from buyer in km: 296",
+    "distanceFromBuyerInKm": 296,
+    "sustainabilityRanking": 76
+  },
+  {
+    "id": 71,
+    "profileRanking": 8,
+    "supplierInfo": "Dumping information for supplier: 71\r\n\t Profile ranking: 8\r\n\t SustainabilityRanking: 51\r\n\t Distance from buyer in km: 68",
+    "distanceFromBuyerInKm": 68,
+    "sustainabilityRanking": 51
+  },
+  {
+    "id": 72,
+    "profileRanking": 69,
+    "supplierInfo": "Dumping information for supplier: 72\r\n\t Profile ranking: 69\r\n\t SustainabilityRanking: 59\r\n\t Distance from buyer in km: 207",
+    "distanceFromBuyerInKm": 207,
+    "sustainabilityRanking": 59
+  },
+  {
+    "id": 73,
+    "profileRanking": 13,
+    "supplierInfo": "Dumping information for supplier: 73\r\n\t Profile ranking: 13\r\n\t SustainabilityRanking: 98\r\n\t Distance from buyer in km: 46",
+    "distanceFromBuyerInKm": 46,
+    "sustainabilityRanking": 98
+  },
+  {
+    "id": 74,
+    "profileRanking": 38,
+    "supplierInfo": "Dumping information for supplier: 74\r\n\t Profile ranking: 38\r\n\t SustainabilityRanking: 18\r\n\t Distance from buyer in km: 43",
+    "distanceFromBuyerInKm": 43,
+    "sustainabilityRanking": 18
+  }
+]
